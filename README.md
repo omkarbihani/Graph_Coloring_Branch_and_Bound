@@ -1,6 +1,6 @@
 # Branch-and-Bound Graph Coloring
 
-This repository implements a sequential branch-and-bound solver for the graph coloring problem. Given an input graph \(G\), the solver searches for the chromatic number \(\chi(G)\), the minimum number of colors needed to assign colors to vertices so that adjacent vertices receive different colors.
+This repository implements a sequential branch-and-bound solver for the graph coloring problem. Given an input graph $G$, the solver searches for the chromatic number $\chi(G)$, the minimum number of colors needed to assign colors to vertices so that adjacent vertices receive different colors.
 
 
 ## Project Structure
